@@ -1,4 +1,4 @@
-# Simple SMS Forwarder 简单的短信转发脚本
+#debian短信转发脚本
 ## Introduction
 Simply receive your sms received in ModemManager to Telegram (or any other service if you want)
 
